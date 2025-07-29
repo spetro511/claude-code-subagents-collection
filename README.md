@@ -280,3 +280,5 @@ This collection is provided under the MIT License. See [LICENSE](LICENSE) for de
 ---
 
 Made with ❤️ by the Claude Code community
+
+@spetro511 to update and add subagents
